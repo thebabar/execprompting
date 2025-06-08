@@ -8,15 +8,14 @@ This Guide was born from that realization. It is the distilled result of hundred
 
 We wrote this book because we believe:
 
-●	Prompting is the new business literacy.
-
-●	Fluency in AI isn't reserved for so-called prompt engineers or developers.
-
-●	Leaders, marketers, analysts, educators, and operators all benefit from tailored prompt strategies.
+-	Prompting is the new business literacy.
+-	Fluency in AI isn't reserved for so-called prompt engineers or developers.
+-	Leaders, marketers, analysts, educators, and operators all benefit from tailored prompt strategies.
 
 
 This is not a theoretical manual. It's a practical handbook for ambitious professionals who want to move quickly, work efficiently, and make informed decisions. Whether you're a seasoned executive or an AI-curious beginner, we hope these pages challenge, inspire and equip you. 
 Welcome to the frontier. Let’s prompt boldly.
 
-Babar Bhatti & Masood Khan
-![image](https://github.com/user-attachments/assets/0fa4dd6d-3149-448f-a8b9-08912c6c4ef4)
+**Babar M Bhatti & Masood Khan**
+
+Dallas, Jun 7 2025
