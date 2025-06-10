@@ -1,0 +1,501 @@
+EmployeeID,Department,Tenure_Years,EngagementScore,SatisfactionScore,ReasonForLeaving,HasLeft,EstimatedTurnoverCost
+1,HR,0.6,67.3,67.3,Career Growth,1,10000
+2,Finance,1.7,58.9,59.1,None,1,13000
+3,Marketing,1.5,95.7,94.7,Compensation,1,12000
+4,Finance,2.9,70.6,87.1,None,0,0
+5,Finance,3.0,70.1,66.7,None,0,0
+6,Sales,0.1,69.8,100.0,Work-Life Balance,0,0
+7,Marketing,1.4,72.0,86.8,None,1,12000
+8,Marketing,2.9,68.6,71.1,Compensation,0,0
+9,Marketing,2.1,64.3,45.0,Work-Life Balance,0,0
+10,Finance,5.8,64.5,100.0,None,0,0
+11,HR,3.2,69.7,58.3,Work-Life Balance,1,10000
+12,Marketing,0.5,64.6,55.3,Work-Life Balance,0,0
+13,Support,0.2,62.9,87.3,Work-Life Balance,0,0
+14,Finance,3.1,71.1,100.0,None,0,0
+15,Sales,0.1,67.5,91.6,Compensation,0,0
+16,HR,2.6,85.0,81.8,Compensation,0,0
+17,Support,8.5,43.5,82.1,None,0,0
+18,Support,2.6,80.9,85.2,None,0,0
+19,Sales,1.5,82.5,84.1,Career Growth,1,15000
+20,HR,3.1,49.3,78.4,Compensation,0,0
+21,Finance,1.8,66.6,76.3,Career Growth,1,13000
+22,Engineering,2.4,66.3,74.2,Compensation,1,20000
+23,HR,8.5,55.9,66.0,Work-Life Balance,0,0
+24,Sales,1.5,62.2,71.6,None,0,0
+25,Support,9.7,58.9,54.7,Management,0,0
+26,Finance,7.1,87.5,73.8,Management,1,13000
+27,HR,0.7,79.4,63.1,Work-Life Balance,0,0
+28,Engineering,0.2,82.7,61.8,None,0,0
+29,Engineering,0.3,77.2,77.2,Work-Life Balance,0,0
+30,Marketing,0.1,58.7,91.7,None,0,0
+31,Marketing,0.3,64.8,86.0,Management,0,0
+32,Sales,3.4,74.9,56.2,Career Growth,0,0
+33,HR,0.2,57.8,63.1,Management,0,0
+34,HR,1.2,77.1,86.3,Compensation,0,0
+35,Support,5.6,67.6,63.2,Management,0,0
+36,Support,0.1,66.3,72.3,Career Growth,0,0
+37,Support,5.1,77.1,81.6,Compensation,0,0
+38,Marketing,1.0,74.4,63.4,None,0,0
+39,HR,0.4,66.4,76.3,Compensation,1,10000
+40,HR,3.6,81.6,59.0,None,0,0
+41,Engineering,3.0,59.2,67.8,Compensation,0,0
+42,Marketing,6.3,76.2,78.8,Management,0,0
+43,Finance,4.0,75.9,55.9,Management,0,0
+44,Marketing,4.9,66.9,80.3,Work-Life Balance,0,0
+45,Finance,1.0,73.3,74.8,Compensation,0,0
+46,Engineering,0.6,57.5,81.6,Compensation,1,20000
+47,Sales,4.2,79.2,77.7,Career Growth,0,0
+48,HR,4.9,68.2,91.4,Compensation,0,0
+49,Engineering,14.0,64.8,76.5,Management,0,0
+50,HR,1.6,80.5,69.8,None,0,0
+51,Support,1.4,63.0,76.5,None,0,0
+52,Sales,4.5,55.9,81.5,None,0,0
+53,Sales,1.3,54.4,75.6,None,0,0
+54,Engineering,8.0,76.1,75.5,Management,0,0
+55,Sales,5.9,57.2,66.6,Compensation,0,0
+56,Finance,1.7,87.5,67.0,None,0,0
+57,Sales,4.2,49.2,58.2,Management,0,0
+58,HR,4.2,87.0,96.0,Work-Life Balance,0,0
+59,HR,0.3,72.1,60.1,Career Growth,1,10000
+60,HR,7.0,69.0,66.7,Work-Life Balance,0,0
+61,HR,2.1,64.6,66.4,Work-Life Balance,0,0
+62,Finance,5.3,74.0,85.7,None,0,0
+63,Marketing,1.2,69.6,71.5,Work-Life Balance,1,12000
+64,Support,6.8,81.0,90.0,Work-Life Balance,1,8000
+65,Engineering,1.5,71.1,66.9,None,0,0
+66,HR,0.0,71.5,78.3,Career Growth,1,10000
+67,Sales,7.1,66.4,65.0,Work-Life Balance,0,0
+68,HR,0.3,69.4,100.0,Career Growth,0,0
+69,Sales,1.2,73.1,60.7,None,1,15000
+70,Support,9.0,52.9,78.7,None,1,8000
+71,Support,9.0,56.5,82.6,Compensation,0,0
+72,Support,2.6,77.4,80.0,None,0,0
+73,Sales,3.0,71.7,72.8,Compensation,0,0
+74,HR,1.8,68.2,73.4,None,0,0
+75,Support,1.0,70.2,75.5,None,1,8000
+76,Finance,1.2,73.5,73.2,None,0,0
+77,Sales,3.3,64.6,86.6,Career Growth,0,0
+78,Sales,4.2,62.2,100.0,None,0,0
+79,HR,4.7,72.0,68.3,None,0,0
+80,Sales,4.7,60.2,58.6,Compensation,0,0
+81,Sales,0.3,74.1,73.9,None,0,0
+82,Support,2.0,53.0,100.0,Compensation,1,8000
+83,HR,0.2,80.3,65.4,None,1,10000
+84,Support,2.4,74.7,94.7,Career Growth,0,0
+85,Support,1.7,72.6,95.1,None,1,8000
+86,HR,6.6,79.8,68.4,Work-Life Balance,1,10000
+87,Engineering,1.3,86.7,81.8,Career Growth,1,20000
+88,Support,0.4,80.1,94.5,Compensation,0,0
+89,Finance,0.5,51.6,70.5,Career Growth,0,0
+90,Finance,4.3,57.2,72.6,Work-Life Balance,0,0
+91,Sales,2.9,63.8,68.0,Compensation,0,0
+92,Finance,0.3,70.3,62.8,Work-Life Balance,0,0
+93,Sales,0.3,75.2,67.2,Compensation,0,0
+94,Engineering,3.6,62.7,60.3,Compensation,0,0
+95,HR,0.2,71.9,75.4,None,0,0
+96,HR,5.2,62.4,65.8,Career Growth,0,0
+97,HR,3.7,63.9,77.8,None,0,0
+98,Finance,0.3,55.9,56.3,None,1,13000
+99,Engineering,0.3,60.8,79.0,Management,1,20000
+100,Finance,12.9,56.5,85.0,Work-Life Balance,1,13000
+101,Finance,1.4,60.2,51.1,None,1,13000
+102,Engineering,1.4,80.5,79.5,Compensation,0,0
+103,Engineering,5.0,60.5,89.7,Career Growth,1,20000
+104,Engineering,8.8,96.3,60.5,Compensation,0,0
+105,Engineering,12.8,74.9,95.1,None,0,0
+106,HR,4.2,71.8,80.0,Career Growth,0,0
+107,Marketing,1.4,61.4,66.5,Work-Life Balance,0,0
+108,Marketing,0.3,77.0,74.3,None,0,0
+109,Engineering,4.5,64.2,81.7,None,0,0
+110,Marketing,2.5,71.2,75.9,Work-Life Balance,1,12000
+111,Marketing,1.7,95.6,81.5,Career Growth,0,0
+112,Engineering,7.1,69.0,64.0,None,0,0
+113,Marketing,0.4,81.5,77.0,Work-Life Balance,1,12000
+114,Finance,2.0,63.0,58.0,Career Growth,0,0
+115,Sales,0.0,69.7,73.7,Career Growth,0,0
+116,Sales,1.9,87.7,64.2,None,0,0
+117,Engineering,0.2,63.7,66.2,Management,0,0
+118,HR,0.4,88.1,89.8,None,0,0
+119,Engineering,0.4,77.1,88.1,None,1,20000
+120,HR,3.1,64.4,82.3,Work-Life Balance,0,0
+121,Sales,4.1,76.3,61.9,Work-Life Balance,0,0
+122,Engineering,2.6,79.7,71.2,Work-Life Balance,1,20000
+123,Support,9.8,76.2,89.6,Compensation,0,0
+124,Finance,1.4,54.3,76.7,Work-Life Balance,0,0
+125,Marketing,1.0,62.7,100.0,None,0,0
+126,HR,6.1,67.5,79.7,Management,0,0
+127,Support,0.8,69.3,77.3,None,0,0
+128,Marketing,9.9,76.2,71.3,Work-Life Balance,0,0
+129,Marketing,0.0,71.8,76.6,Management,0,0
+130,Engineering,10.5,56.6,73.2,Management,1,20000
+131,Marketing,0.1,73.8,83.5,Work-Life Balance,0,0
+132,Finance,6.7,76.1,86.5,None,0,0
+133,Support,2.3,75.6,65.6,Compensation,0,0
+134,Marketing,14.9,80.8,59.0,Work-Life Balance,0,0
+135,Engineering,0.2,78.3,53.0,Career Growth,0,0
+136,Finance,2.4,74.6,81.1,Work-Life Balance,0,0
+137,Sales,10.5,69.3,61.8,Work-Life Balance,1,15000
+138,Support,2.2,53.4,49.2,Management,0,0
+139,Marketing,3.0,74.3,79.7,None,0,0
+140,Engineering,3.6,72.1,100.0,Management,0,0
+141,Sales,1.8,72.7,74.9,None,0,0
+142,Sales,3.0,57.2,85.1,Work-Life Balance,0,0
+143,HR,2.6,59.2,76.0,Management,0,0
+144,Finance,6.9,80.5,73.8,Career Growth,0,0
+145,Marketing,0.1,69.6,86.0,Compensation,0,0
+146,Engineering,1.0,76.8,71.5,Work-Life Balance,1,20000
+147,HR,9.0,70.3,78.2,Work-Life Balance,1,10000
+148,Finance,6.6,70.3,78.9,Career Growth,1,13000
+149,HR,1.8,79.4,67.0,Career Growth,1,10000
+150,Support,2.9,64.8,86.9,Compensation,0,0
+151,Finance,1.0,71.0,72.9,None,1,13000
+152,Finance,0.6,65.4,65.9,Compensation,0,0
+153,Marketing,1.9,65.7,81.4,Work-Life Balance,1,12000
+154,Finance,1.3,66.9,64.2,Compensation,1,13000
+155,HR,2.6,72.2,75.3,Management,0,0
+156,Finance,0.2,65.2,74.9,Compensation,1,13000
+157,Marketing,11.0,82.6,88.0,Compensation,0,0
+158,Marketing,12.9,61.1,80.7,Work-Life Balance,0,0
+159,Support,3.6,68.1,74.7,Career Growth,0,0
+160,HR,2.3,65.6,84.8,Career Growth,0,0
+161,Sales,1.1,84.5,91.7,Compensation,0,0
+162,Sales,5.0,72.0,81.7,Career Growth,0,0
+163,Finance,3.5,80.3,75.1,Career Growth,1,13000
+164,Support,0.5,55.1,59.3,Compensation,0,0
+165,Engineering,7.3,72.7,62.2,None,1,20000
+166,Finance,5.2,78.9,71.3,Work-Life Balance,1,13000
+167,Support,9.0,70.8,67.7,Work-Life Balance,1,8000
+168,HR,3.9,80.7,72.8,Compensation,1,10000
+169,HR,2.9,64.8,75.7,None,0,0
+170,HR,1.6,84.1,81.4,Work-Life Balance,1,10000
+171,HR,8.1,93.0,74.2,Career Growth,1,10000
+172,HR,6.0,66.4,80.8,Management,0,0
+173,Support,0.1,65.5,75.8,Career Growth,0,0
+174,Support,0.1,84.5,51.3,Compensation,0,0
+175,Marketing,1.4,85.8,63.7,Work-Life Balance,0,0
+176,Sales,5.0,64.8,73.3,None,0,0
+177,HR,13.1,65.8,60.5,Work-Life Balance,0,0
+178,Engineering,0.5,67.2,82.2,None,0,0
+179,Support,2.7,56.6,93.4,None,0,0
+180,Engineering,1.4,60.8,89.6,Career Growth,1,20000
+181,Engineering,10.5,60.0,72.4,Compensation,0,0
+182,Engineering,5.5,62.3,92.9,Work-Life Balance,0,0
+183,Marketing,5.5,69.7,76.8,Work-Life Balance,0,0
+184,Support,1.9,72.3,71.0,Work-Life Balance,0,0
+185,Engineering,1.6,85.5,67.6,None,1,20000
+186,HR,1.0,60.0,71.4,None,0,0
+187,Finance,0.2,79.8,70.3,Management,0,0
+188,Engineering,6.0,67.9,77.0,Compensation,0,0
+189,Marketing,5.0,69.5,76.9,None,0,0
+190,Support,24.5,76.7,75.0,None,1,8000
+191,Marketing,17.1,58.8,80.2,None,0,0
+192,Engineering,2.4,73.8,89.3,Career Growth,0,0
+193,Support,4.4,71.7,86.4,Management,0,0
+194,Finance,8.7,74.9,57.2,Career Growth,0,0
+195,Engineering,5.7,72.9,44.4,Compensation,0,0
+196,Marketing,0.9,94.6,86.2,Career Growth,0,0
+197,Sales,1.8,63.6,58.6,Management,0,0
+198,HR,0.4,64.7,72.3,Management,0,0
+199,Marketing,9.2,63.8,61.0,Career Growth,0,0
+200,Support,2.8,64.4,53.4,Work-Life Balance,1,8000
+201,Engineering,0.8,63.6,81.5,Work-Life Balance,1,20000
+202,HR,3.3,81.9,84.1,Work-Life Balance,0,0
+203,Engineering,2.9,84.2,68.1,Career Growth,1,20000
+204,Support,1.3,64.3,43.9,Work-Life Balance,0,0
+205,Engineering,0.4,61.7,68.4,None,0,0
+206,Sales,3.3,74.7,79.7,Career Growth,1,15000
+207,HR,2.2,64.5,57.3,Career Growth,1,10000
+208,HR,4.4,76.3,77.2,Work-Life Balance,1,10000
+209,Support,2.2,72.0,74.8,None,0,0
+210,Sales,5.7,54.8,82.0,Management,0,0
+211,Marketing,2.4,85.5,76.4,Management,1,12000
+212,Engineering,2.5,88.0,63.3,Work-Life Balance,0,0
+213,Finance,6.3,63.9,89.4,Work-Life Balance,0,0
+214,Engineering,1.5,66.1,73.1,Career Growth,0,0
+215,Engineering,0.4,72.9,74.7,Management,0,0
+216,Marketing,0.1,73.3,63.8,None,0,0
+217,Engineering,4.2,76.6,69.7,Management,0,0
+218,Sales,2.9,90.1,64.4,None,1,15000
+219,Sales,3.7,68.2,72.9,None,0,0
+220,HR,0.7,62.0,95.5,Career Growth,0,0
+221,Support,0.4,56.2,58.5,None,0,0
+222,Finance,0.0,62.7,55.6,Career Growth,0,0
+223,Engineering,1.3,69.7,92.7,Work-Life Balance,0,0
+224,Engineering,2.7,87.9,72.5,Career Growth,0,0
+225,Marketing,1.5,64.8,67.0,Career Growth,1,12000
+226,Support,1.7,72.2,87.5,Work-Life Balance,0,0
+227,Sales,7.0,69.8,67.7,Compensation,1,15000
+228,Finance,1.3,81.9,96.9,Work-Life Balance,0,0
+229,HR,2.2,95.3,83.1,Work-Life Balance,0,0
+230,Sales,4.6,64.7,69.1,Career Growth,0,0
+231,Support,1.5,65.1,100.0,Career Growth,0,0
+232,HR,2.9,80.4,67.7,Work-Life Balance,1,10000
+233,Marketing,5.9,76.8,83.9,Compensation,0,0
+234,Marketing,9.0,88.5,78.6,None,0,0
+235,Engineering,0.5,75.8,90.6,Management,1,20000
+236,Support,7.8,66.4,93.7,None,1,8000
+237,Finance,2.0,75.9,75.4,Management,1,13000
+238,HR,0.9,81.1,66.0,Work-Life Balance,0,0
+239,Sales,1.8,78.2,80.5,Management,1,15000
+240,Support,11.7,75.1,66.9,Compensation,0,0
+241,Support,2.0,80.7,99.2,Compensation,0,0
+242,Marketing,1.2,81.7,76.6,None,0,0
+243,Engineering,3.0,83.8,70.6,Work-Life Balance,0,0
+244,Engineering,0.8,76.5,77.2,None,0,0
+245,HR,0.2,68.3,58.8,None,0,0
+246,Marketing,0.4,71.5,63.3,None,1,12000
+247,Support,0.4,82.1,89.4,None,0,0
+248,Finance,0.5,61.8,67.1,Work-Life Balance,0,0
+249,Marketing,0.4,73.7,62.4,Compensation,0,0
+250,HR,3.1,66.1,81.4,Work-Life Balance,1,10000
+251,HR,0.6,70.3,89.2,Work-Life Balance,0,0
+252,Marketing,1.3,82.8,83.6,Management,0,0
+253,HR,6.8,71.9,87.0,None,1,10000
+254,Marketing,1.9,70.5,65.9,Management,1,12000
+255,Sales,3.3,56.4,57.9,Work-Life Balance,0,0
+256,Marketing,0.6,77.5,93.0,Compensation,0,0
+257,Marketing,0.6,76.5,71.1,Work-Life Balance,1,12000
+258,HR,0.1,91.6,72.0,Career Growth,0,0
+259,HR,0.6,66.9,90.9,None,0,0
+260,Engineering,1.0,72.2,81.7,Compensation,1,20000
+261,Engineering,0.6,72.5,80.5,Compensation,0,0
+262,Sales,0.3,85.8,100.0,Career Growth,0,0
+263,Engineering,0.4,69.0,67.3,Management,0,0
+264,Marketing,1.9,72.8,86.1,Management,0,0
+265,HR,0.7,76.1,75.7,Compensation,0,0
+266,Engineering,1.4,71.9,78.2,Career Growth,1,20000
+267,Engineering,2.1,65.5,93.3,Work-Life Balance,0,0
+268,Sales,3.5,71.9,81.1,Compensation,0,0
+269,Support,0.1,80.7,81.5,Management,0,0
+270,Sales,4.8,59.7,87.9,Management,0,0
+271,Marketing,3.0,71.3,70.6,Work-Life Balance,1,12000
+272,HR,0.3,63.0,64.9,Compensation,0,0
+273,Sales,6.2,82.0,62.5,None,0,0
+274,Engineering,7.6,54.8,51.4,Work-Life Balance,0,0
+275,HR,0.2,64.4,99.7,Management,0,0
+276,HR,1.0,73.8,61.8,Career Growth,0,0
+277,Engineering,4.9,85.7,72.3,Work-Life Balance,0,0
+278,Sales,4.1,69.3,71.7,Career Growth,1,15000
+279,Engineering,0.6,64.4,78.7,Work-Life Balance,0,0
+280,Support,0.7,88.8,84.8,None,0,0
+281,HR,1.4,55.5,85.3,Work-Life Balance,0,0
+282,Finance,2.0,48.0,68.0,Career Growth,1,13000
+283,Finance,2.9,74.4,73.0,Career Growth,0,0
+284,Marketing,1.4,65.0,78.4,Work-Life Balance,0,0
+285,Engineering,1.9,59.8,72.0,Compensation,0,0
+286,Engineering,4.1,77.1,94.3,Career Growth,0,0
+287,Marketing,0.1,72.4,80.9,None,1,12000
+288,Marketing,0.9,64.4,83.8,Work-Life Balance,0,0
+289,Marketing,3.7,57.2,83.0,Compensation,0,0
+290,HR,6.8,78.7,89.1,None,1,10000
+291,Support,2.2,76.5,77.2,Career Growth,1,8000
+292,Engineering,2.3,69.0,59.4,None,1,20000
+293,HR,0.3,88.5,79.8,Compensation,1,10000
+294,Marketing,1.8,59.3,67.2,None,0,0
+295,Engineering,2.3,54.7,68.7,Management,0,0
+296,HR,0.8,63.1,82.0,None,0,0
+297,Support,0.9,69.5,89.9,None,0,0
+298,HR,1.4,72.4,75.3,Compensation,0,0
+299,Support,0.1,67.6,78.7,None,0,0
+300,Marketing,1.2,73.5,95.4,Work-Life Balance,0,0
+301,Support,0.7,57.5,77.9,Work-Life Balance,1,8000
+302,Engineering,1.2,84.4,100.0,Compensation,0,0
+303,Marketing,0.4,69.2,81.8,Work-Life Balance,1,12000
+304,Engineering,6.6,81.2,53.9,Compensation,0,0
+305,Finance,2.7,73.4,84.0,Work-Life Balance,0,0
+306,Sales,3.4,74.6,79.6,Work-Life Balance,0,0
+307,Support,4.7,75.7,90.5,None,0,0
+308,Sales,2.1,74.5,83.1,None,0,0
+309,Sales,0.3,76.4,73.3,Work-Life Balance,1,15000
+310,Support,2.3,83.3,60.3,Compensation,0,0
+311,Marketing,2.7,72.0,72.5,Compensation,0,0
+312,Finance,4.1,77.1,64.8,Compensation,0,0
+313,Engineering,1.7,69.1,68.0,Career Growth,0,0
+314,HR,0.4,84.4,82.1,Compensation,1,10000
+315,Engineering,1.0,63.2,95.0,Compensation,1,20000
+316,HR,1.4,88.0,79.7,None,0,0
+317,Engineering,3.1,69.6,60.6,Work-Life Balance,0,0
+318,Support,2.5,55.7,80.3,Compensation,0,0
+319,Finance,1.3,71.3,89.4,Work-Life Balance,1,13000
+320,HR,12.9,63.2,67.7,Career Growth,0,0
+321,Marketing,2.8,78.4,73.4,Work-Life Balance,0,0
+322,Engineering,0.8,63.5,75.2,Management,1,20000
+323,Engineering,0.3,65.5,65.6,Work-Life Balance,0,0
+324,HR,0.5,51.1,82.8,Work-Life Balance,1,10000
+325,Marketing,0.8,65.5,73.5,None,0,0
+326,Marketing,0.5,45.8,80.0,None,0,0
+327,Support,0.6,54.2,64.4,Management,0,0
+328,Support,1.0,77.6,69.8,Work-Life Balance,1,8000
+329,Support,0.6,77.9,83.7,Management,1,8000
+330,Support,6.8,74.3,70.5,Compensation,0,0
+331,Support,0.3,60.3,95.7,Work-Life Balance,0,0
+332,Support,2.2,69.5,70.2,Career Growth,0,0
+333,Finance,1.6,70.0,77.7,Work-Life Balance,1,13000
+334,Marketing,12.1,58.4,86.2,Work-Life Balance,0,0
+335,Support,0.4,85.0,58.0,Compensation,0,0
+336,Marketing,1.5,78.8,53.9,None,0,0
+337,Marketing,10.5,67.8,56.7,None,1,12000
+338,Sales,6.0,70.3,90.2,None,0,0
+339,Finance,5.1,72.1,68.4,Work-Life Balance,0,0
+340,Support,0.9,49.6,100.0,None,0,0
+341,Engineering,0.6,67.5,68.2,Career Growth,1,20000
+342,HR,3.3,63.2,77.2,None,0,0
+343,Engineering,8.0,60.0,93.5,Career Growth,0,0
+344,Finance,2.4,67.2,99.1,None,1,13000
+345,HR,2.5,88.0,99.7,Compensation,0,0
+346,Finance,1.0,76.4,89.5,None,0,0
+347,Marketing,4.4,64.3,87.3,None,0,0
+348,HR,0.6,75.7,82.1,Career Growth,1,10000
+349,Marketing,1.2,84.0,84.3,Work-Life Balance,0,0
+350,Engineering,1.7,79.2,68.4,None,1,20000
+351,Engineering,2.1,70.6,65.2,Work-Life Balance,0,0
+352,HR,0.8,63.5,75.0,None,0,0
+353,HR,0.4,77.0,73.0,Work-Life Balance,0,0
+354,Support,2.8,73.9,69.6,Work-Life Balance,1,8000
+355,Finance,1.0,79.0,83.4,Compensation,0,0
+356,Support,2.6,76.4,86.5,Compensation,1,8000
+357,Finance,0.5,80.5,76.1,None,0,0
+358,Support,2.0,64.6,92.7,Work-Life Balance,0,0
+359,Marketing,2.3,83.2,61.3,Work-Life Balance,0,0
+360,HR,0.2,72.0,72.7,Work-Life Balance,1,10000
+361,Engineering,1.2,90.8,66.4,Work-Life Balance,0,0
+362,Finance,0.4,63.1,52.6,None,0,0
+363,Finance,0.2,87.4,74.0,None,0,0
+364,Engineering,13.8,72.0,73.5,Work-Life Balance,1,20000
+365,Support,1.2,63.5,93.2,None,0,0
+366,Finance,5.0,65.2,82.6,None,1,13000
+367,Marketing,0.9,66.8,62.7,Work-Life Balance,0,0
+368,HR,3.4,74.2,97.2,None,0,0
+369,Engineering,4.3,75.2,89.7,Compensation,0,0
+370,HR,2.7,64.3,82.0,Career Growth,1,10000
+371,Finance,1.9,69.8,72.3,None,1,13000
+372,Finance,1.6,91.4,63.5,Work-Life Balance,0,0
+373,Engineering,1.3,87.3,70.5,None,0,0
+374,Marketing,8.0,74.4,88.1,None,0,0
+375,Sales,5.3,70.4,97.6,Career Growth,0,0
+376,Engineering,10.1,71.2,93.5,None,0,0
+377,Sales,0.4,76.1,69.1,Work-Life Balance,0,0
+378,Support,3.9,59.8,61.6,Work-Life Balance,0,0
+379,Sales,8.4,67.4,76.7,Management,0,0
+380,Marketing,0.6,53.3,53.8,None,0,0
+381,Support,0.2,74.0,78.9,Career Growth,0,0
+382,Sales,4.1,76.5,73.2,Work-Life Balance,0,0
+383,Support,2.6,65.2,69.4,Management,0,0
+384,Sales,5.5,85.7,55.9,None,1,15000
+385,Marketing,0.5,57.7,81.2,Management,0,0
+386,Sales,4.8,55.4,68.6,Career Growth,0,0
+387,Sales,0.7,72.2,61.0,Compensation,0,0
+388,Sales,0.5,80.5,40.5,Work-Life Balance,0,0
+389,Engineering,0.5,86.8,74.7,None,0,0
+390,Engineering,5.1,65.4,96.3,Compensation,0,0
+391,Engineering,3.3,80.8,94.9,Compensation,1,20000
+392,Marketing,2.2,69.6,69.5,None,0,0
+393,Support,1.3,68.3,67.8,Career Growth,0,0
+394,Finance,6.3,78.8,80.6,None,0,0
+395,Sales,1.5,76.5,63.0,Management,0,0
+396,Sales,5.1,54.2,78.6,None,0,0
+397,Marketing,1.7,84.8,84.2,Compensation,1,12000
+398,Sales,1.4,83.8,89.7,Career Growth,0,0
+399,Engineering,1.9,63.7,73.8,None,0,0
+400,Finance,1.1,74.0,72.6,None,0,0
+401,HR,4.1,74.9,64.5,None,0,0
+402,Sales,2.1,72.6,65.1,Career Growth,1,15000
+403,Engineering,0.8,64.5,72.3,None,0,0
+404,HR,6.9,63.3,79.4,None,0,0
+405,Finance,1.5,69.7,86.0,Management,0,0
+406,HR,2.4,81.7,65.4,None,1,10000
+407,Engineering,7.1,75.4,92.9,None,0,0
+408,Support,2.9,66.3,71.7,Management,0,0
+409,Support,0.4,77.7,74.7,Career Growth,0,0
+410,HR,8.4,41.5,66.0,Work-Life Balance,0,0
+411,Marketing,3.0,81.5,45.9,Career Growth,0,0
+412,HR,1.2,52.6,85.6,Work-Life Balance,0,0
+413,Sales,0.4,66.4,83.8,Work-Life Balance,0,0
+414,Sales,4.7,58.8,71.6,Career Growth,0,0
+415,Support,2.9,57.1,75.8,Compensation,0,0
+416,Marketing,2.3,81.6,81.2,Career Growth,0,0
+417,Engineering,6.7,65.3,56.2,None,0,0
+418,Sales,4.7,73.5,68.7,None,0,0
+419,Support,0.5,69.5,84.5,Career Growth,0,0
+420,Finance,1.1,74.8,59.9,None,1,13000
+421,Support,0.9,70.8,78.5,Work-Life Balance,0,0
+422,Sales,4.1,57.2,58.7,Compensation,0,0
+423,Sales,0.1,80.0,80.6,Career Growth,0,0
+424,Support,2.5,65.1,74.6,Work-Life Balance,1,8000
+425,Engineering,4.3,54.4,55.6,None,0,0
+426,HR,6.3,65.7,89.0,None,0,0
+427,Sales,1.3,85.0,66.2,Career Growth,0,0
+428,Support,5.2,78.5,65.3,Career Growth,0,0
+429,Support,0.4,66.5,77.4,Work-Life Balance,0,0
+430,Marketing,5.6,66.5,88.8,Compensation,0,0
+431,HR,0.4,66.8,62.8,Compensation,0,0
+432,Finance,1.5,90.8,75.7,Compensation,1,13000
+433,Engineering,4.8,73.8,80.1,None,0,0
+434,Finance,0.5,74.3,83.3,None,0,0
+435,HR,0.8,80.3,77.1,Work-Life Balance,0,0
+436,HR,3.8,72.4,70.6,None,0,0
+437,HR,3.8,67.4,65.1,Compensation,0,0
+438,Finance,3.1,68.0,76.0,Work-Life Balance,0,0
+439,HR,3.6,69.3,62.1,Compensation,0,0
+440,Support,2.3,69.6,39.9,Management,1,8000
+441,Finance,0.9,77.3,80.2,None,1,13000
+442,HR,1.3,70.5,85.8,Management,0,0
+443,Support,0.6,77.3,46.6,Work-Life Balance,0,0
+444,Marketing,7.2,69.2,62.9,Management,1,12000
+445,HR,2.6,70.8,82.4,Career Growth,0,0
+446,Finance,1.5,50.0,99.7,None,1,13000
+447,Sales,1.9,79.2,75.2,Work-Life Balance,0,0
+448,HR,8.8,73.5,66.3,Work-Life Balance,0,0
+449,Sales,0.5,80.0,72.8,Work-Life Balance,0,0
+450,Support,2.6,41.0,91.5,Management,0,0
+451,Marketing,2.1,90.9,67.2,Career Growth,0,0
+452,Engineering,2.8,68.6,65.4,Management,0,0
+453,Marketing,0.1,81.1,69.2,Compensation,0,0
+454,HR,6.2,59.6,63.6,None,0,0
+455,Sales,8.1,76.1,76.5,None,0,0
+456,Sales,2.5,59.5,94.5,None,1,15000
+457,Finance,3.6,63.8,78.9,Work-Life Balance,0,0
+458,Sales,7.7,89.1,72.0,Work-Life Balance,1,15000
+459,Finance,3.7,68.1,71.5,Career Growth,0,0
+460,Support,0.5,72.2,56.2,None,0,0
+461,Engineering,2.6,78.7,85.6,Compensation,1,20000
+462,HR,2.8,75.0,74.1,Work-Life Balance,0,0
+463,Finance,1.7,71.5,72.8,Compensation,0,0
+464,Engineering,4.0,73.6,100.0,Career Growth,0,0
+465,Sales,8.2,94.0,78.6,Management,0,0
+466,Sales,7.8,69.4,66.0,Career Growth,0,0
+467,Engineering,1.8,72.0,69.9,None,1,20000
+468,Sales,0.4,80.5,88.8,Compensation,0,0
+469,Support,12.6,81.1,76.4,Career Growth,0,0
+470,Support,5.5,81.9,57.7,Work-Life Balance,0,0
+471,Engineering,0.4,76.4,86.0,Career Growth,0,0
+472,Finance,7.6,58.6,67.0,Compensation,0,0
+473,Finance,6.1,86.3,97.5,None,0,0
+474,Engineering,2.2,58.5,88.0,Career Growth,0,0
+475,Finance,2.7,73.0,69.6,None,0,0
+476,Finance,1.5,62.5,90.4,Career Growth,0,0
+477,Support,0.2,69.4,75.8,Compensation,0,0
+478,Finance,1.2,73.3,85.2,None,0,0
+479,Marketing,4.9,73.2,80.8,Compensation,0,0
+480,HR,0.0,74.2,64.8,Career Growth,1,10000
+481,Sales,1.2,86.1,67.3,Work-Life Balance,0,0
+482,Marketing,1.5,74.5,87.4,Compensation,0,0
+483,Finance,2.3,67.6,71.0,None,0,0
+484,Support,7.6,79.6,70.2,Compensation,0,0
+485,Engineering,1.3,81.9,63.5,None,0,0
+486,Finance,1.3,57.7,80.1,None,0,0
+487,Support,4.0,76.0,99.8,Work-Life Balance,0,0
+488,HR,1.8,77.0,62.2,None,0,0
+489,Finance,0.8,67.0,75.3,Work-Life Balance,0,0
+490,Engineering,1.8,83.8,91.9,None,0,0
+491,Support,0.5,68.5,74.0,Career Growth,0,0
+492,Support,0.6,71.3,80.4,Management,0,0
+493,Support,2.1,68.3,62.3,Work-Life Balance,1,8000
+494,HR,1.6,70.2,80.1,Work-Life Balance,1,10000
+495,Finance,7.4,59.0,72.8,Management,1,13000
+496,HR,1.4,55.6,86.8,None,1,10000
+497,Sales,2.6,85.9,89.2,Career Growth,1,15000
+498,Sales,3.0,61.5,100.0,Compensation,0,0
+499,Finance,0.0,60.1,82.0,None,0,0
+500,HR,3.3,48.5,78.9,Management,0,0
