@@ -26,14 +26,31 @@ Why It Works:
 - Per-criterion rubric ensures consistent scoring across interviewers.
 - Optional Add-On: "Add a red-flag section identifying dealbreaker responses."
 
-The Book includes more prompts and pro-tips.
+**Predicting employee departure risk based on engagement factors.**
 
-**List of Prompts:**
+Starter Prompt:
+
+Why are employees leaving our company?
+
+Executive Prompt:
+
+You are an HR analyst. Using our engagement survey data and attrition numbers, 1) identify the top 3 correlated factors predicting resignations, 2) segment flight risk by department and tenure, 3) calculate the predicted turnover cost for Q3-Q4, and 4) recommend two high-impact retention initiatives with success metrics—format as an executive summary.
+
+(Use this [sample data with the prompt](Data/Ch5_HR_Engagement_and_Attrition_Data.csv) with the prompt or use your own)
+
+Why It Works:
+- The correlation focus moves beyond exit interview anecdotes to systemic patterns.
+- Cost calculation translates HR concerns into financial terms executives understand.
+- Optional Add-On: "Identify one leading indicator to monitor for early warning of increasing attrition."
+
+The Book includes more prompts and pro-tips for Human Resources & Talent Management Prompts.
+
+**Full list of prompts for this chapter:**
   - Job-Ad Draft
   - Candidate Scorecard
   - Attrition Forecast (see data)
   - ATS Keyword Optimization
   - Employee Engagement Survey Design
 
-Pro Tips for Human Resources & Talent Management Prompts.
+
 
