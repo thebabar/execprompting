@@ -31,6 +31,17 @@ Format as a technical troubleshooting playbook that moves from symptoms to solut
 
 Why It Works:
 - Systematic isolation prevents random trial-and-error approaches.
+
+**Pro Tips for Strategic & Decision-Making Prompts**
+1. Include organizational context, constraints, and objectives
+2. Specify time frame for strategic considerations (short, medium, long-term)
+3. Request both analytical frameworks and practical implementation guidance
+4. Include consideration of both opportunities and risks/threats
+5. Ask for assumptions to be explicitly stated
+6. Request scenario-based approaches for handling uncertainty
+7. For strategic plans, ask for both vision elements and execution details
+8. Include stakeholder considerations and communication approaches
+
 - The decision tree structure guides logical progression through diagnosis.
 - The documentation component captures knowledge for future reference.
 
