@@ -23,7 +23,7 @@
 ## Videos
 
 - [Prompting Guide Playlist (YouTube)](https://www.youtube.com/results?search_query=prompting+guide)
-
+- [State of the Art Prompting - YCombinator Podcast](https://www.youtube.com/watch?v=DL82mGde6wo)
 ---
 
 ## Code
@@ -53,6 +53,7 @@
 ## Prompt Resources + Examples
 
 - [GPT-4o Power Prompts for Business](https://lawtonsolutions.com/How-To-AI/)
+- [Prompt Design Example at Parahelp](https://parahelp.com/blog/prompt-design)
 - [AI for Work](https://www.aiforwork.co/)
 - [Top 5 ChatGPT Use Cases for Professionals - Jeff Su](https://www.jeffsu.org/top-5-chatgpt-use-cases-for-professionals/)
 - [AI Fire Resources](https://www.aifire.co/c/ai-learning-resources) | [Top AI Cheatsheets 2024](https://www.aifire.co/p/top-ai-cheatsheets-2024)
